@@ -4,37 +4,89 @@ title: "Resume"
 
 # Education
 
--   List your education here. 
+**2024-2025** *University of British Columbia*
 
-# Publications
+Master of Geomatics for Environmental Management
 
-*Peer-reviewed publications:*
+**2015-2020** *University of Lethbridge*
 
-- List any peer-reviewed publications here.
+B.Sc. Environmental Science Minor in Small Business Management
 
-*Reports:*
+# Certifications
 
-- List any non-peer reviewed materials you'd like to share here.
+-   WHIMIS
+-   CPR and AED Level C
+-   Class 5 Driver's Licence
+-   Defensive Driving Certificate
+-   SCUBA
 
-# Conferences & Talks
+# Experience
 
-*Invited Talks*
+***2022-2023***
 
-- If you've been invited to speak in a professional setting, list that here. 
+**Te'mexw Treaty Association** Victoria, BC
 
-*Conference Presentations*
+Project Coordinator
 
-- If the presentation was at a conference, list them here. 
+-   Managed project logistics with budget of \$700,000 including hiring and coordination of contractors and research assistants
+-   Diligently recorded treaty proceedings and provided succinct post-meeting summaries
+-   Catalogued historical documents into Sohodocs database
+
+***2021-2022***
+
+**Northern Environmental Action Team** Fort St. John, BC
+
+Northern Co-Hort & Food Hub Research and Development
+
+-   Budgeted and submitted grant proposals for development of Northern Co-Hort & Food Hub extension events
+-   Developed and marketed virtual farm support events to over 100 local producers
+-   Identified and fulfilled diverse needs of Co-Hort producer members via regular communications, facilitating student-producer relationships, and client presentations
+-   Piloted Food Hub program through dinner boxes and aggregated farm products for sale at local markets on behalf of producers and tracked sales data through Microsoft Excel
+
+*2021*
+
+**Northern Environmental Action Team** Fort St. John, BC
+
+Northern Co-Hort Eco Farm Skills Coordinator
+
+-   Coordinated and scheduled a team of 10 dedicated to regenerative agriculture
+-   Collected soil core samples for Co-Hort research project
+-   Organized weekly markets and events, including training, product intake and storage, collecting regulatory licenses, invoicing, etc.
+-   Independently updated existing orientation materials and management toolsets to facilitate training sessions Communicated expertise of sustainable agriculture practices to community
+
+*2021*
+
+**Fort St. John Association for Community Living** Fort St. John, BC
+
+Growing Conections Farm Coordinator
+
+-   Designed and created therapeutic farm for individuals living with disabilities
+-   Taught farm clients ecological farm techniques and practices, including soil health, sheet mulch and hugelkultur beds, and sheep care
+-   Performed strenuous physical activities including lifting, digging, mulching, and planting during various weather conditions
+
+*2019-2020*
+
+**Interfaith Food Bank** Lethbridge, AB
+
+Food Recovery Program Research and Development
+
+-   Developed new food recovery program and authored program manual
+-   Implemented new program independently while facilitating volunteers
+-   Formulated strategy for affordable market concept for transformed product
+
+*2017*
+
+**AAFC Lethbridge Research and Development Center** Lethbridge, AB
+
+Research Assistant
+
+-   Gathered and repaired pitfall traps in remote agriculture fields around Southern Alberta
+-   Assembled and assisted with design of modified Berlese funnels
+-   Identified various species of arthropods under microscope using dichotomous key
+-   Collected and maintained arthropod colony
+-   Recorded detailed field notes
 
 # Awards & Honors
 
-- List any scholarships, bursaries, etc. 
-
-
-# Teaching Assistantships
-
-- List any TA positions you may have held. 
-
-# Institutional Service
-
-- Volunteering etc. 
+-   University of Lethbridge Supporting Our Students Scholarship
+-   Finalist for The Bridge National Short Story Competition
