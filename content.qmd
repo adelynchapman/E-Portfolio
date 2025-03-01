@@ -10,9 +10,15 @@ editor: visual
 
 This study investigated the extent to which different methods of remote sensing were able to estimate the aboveground biomass in a tropical forest reserve in Kwahu South, Ghana. By utilizing multiple sources of space-borne optical imagery from Landsat-8 and Sentinel-2 in combination with the LiDAR systems on the GEDI module of the ISS, a random forest machine learning algorithm was used to predict the aboveground biomass of the reserve. The accuracy of the prediction was compared to a dataset from Chloris geospatial, which is also validated on drone-based LiDAR datasets.
 
-image: images/agbmodel1&2
+image: images/agbmodel1&2.jpg
 
-# *Project 2*
+# *Least Cost Path*
+
+## Summary
+
+A least cost path analysis intakes several parameters (e.g. terrain, land cover class, presence of roads, etc.) to determine the preferred route taken by wildlife. These pathways tend to avoid danger and reduce the amount of energy expended by these animals. Below is a sample of a least cost path of a grizzly bear in Alberta, Canada, demonstrating how the bear avoids certain terrains and human areas.
+
+image: images/leastcostpath.png
 
 ## Leaflet
 
