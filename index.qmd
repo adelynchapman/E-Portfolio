@@ -2,7 +2,7 @@
 title: "Adelyn Chapman"
 image: images/MGEM_logo.png
 about:
-  template: trestles
+  template: minty
   image-width: 20em
   links: 
     - icon: linkedin
